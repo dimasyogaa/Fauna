@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="data_animal_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <integer-array name="data_animal_photo">
+        <item>@drawable/img_animal_rooster</item>
+        <item>@drawable/img_animal_rhinoceros</item>
+        <item>@drawable/img_animal_duck</item>
+        <item>@drawable/img_animal_owl</item>
+        <item>@drawable/img_animal_crow</item>
+        <item>@drawable/img_animal_elephant</item>
+        <item>@drawable/img_animal_tiger</item>
+        <item>@drawable/img_animal_cat</item>
+        <item>@drawable/img_animal_horse</item>
+        <item>@drawable/img_animal_dove</item>
+        <item>@drawable/img_animal_cow</item>
+        <item>@drawable/img_animal_lion</item>
+        <item>@drawable/img_animal_rat</item>
+    </integer-array>
+
+    <string-array name="data_animal_name">
+        <item>@string/rooster_name</item>
+        <item>@string/rhino_name</item>
+        <item>@string/duck_name</item>
+        <item>@string/owl_name</item>
+        <item>@string/crow_name</item>
+        <item>@string/elephant_name</item>
+        <item>@string/tiger_name</item>
+        <item>@string/cat_name</item>
+        <item>@string/horse_name</item>
+        <item>@string/dove_name</item>
+        <item>@string/cow_name</item>
+        <item>@string/lion_name</item>
+        <item>@string/rat_name</item>
+    </string-array>
+
+    <string-array name="data_animal_description">
+        <item>@string/rooster_desc</item>
+        <item>@string/rhino_desc</item>
+        <item>@string/duck_desc</item>
+        <item>@string/owl_desc</item>
+        <item>@string/crow_desc</item>
+        <item>@string/elephant_desc</item>
+        <item>@string/tiger_desc</item>
+        <item>@string/cat_desc</item>
+        <item>@string/horse_desc</item>
+        <item>@string/dove_desc</item>
+        <item>@string/cow_desc</item>
+        <item>@string/lion_desc</item>
+        <item>@string/rat_desc</item>
+    </string-array>
+
+    <string-array name="data_animal_kingdom">
+        <item>@string/rooster_kingdom</item>
+        <item>@string/rhino_kingdom</item>
+        <item>@string/duck_kingdom</item>
+        <item>@string/owl_kingdom</item>
+        <item>@string/crow_kingdom</item>
+        <item>@string/elephant_kingdom</item>
+        <item>@string/tiger_kingdom</item>
+        <item>@string/cat_kingdom</item>
+        <item>@string/horse_kingdom</item>
+        <item>@string/dove_kingdom</item>
+        <item>@string/cow_kingdom</item>
+        <item>@string/lion_kingdom</item>
+        <item>@string/rat_kingdom</item>
+    </string-array>
+
+    <string-array name="data_animal_phylum">
+        <item>@string/rooster_phylum</item>
+        <item>@string/rhino_phylum</item>
+        <item>@string/duck_phylum</item>
+        <item>@string/owl_phylum</item>
+        <item>@string/crow_phylum</item>
+        <item>@string/elephant_phylum</item>
+        <item>@string/tiger_phylum</item>
+        <item>@string/cat_phylum</item>
+        <item>@string/horse_phylum</item>
+        <item>@string/dove_phylum</item>
+        <item>@string/cow_phylum</item>
+        <item>@string/lion_phylum</item>
+        <item>@string/rat_phylum</item>
+    </string-array>
+
+    <string-array name="data_animal_class">
+        <item>@string/rooster_class</item>
+        <item>@string/rhino_class</item>
+        <item>@string/duck_class</item>
+        <item>@string/owl_class</item>
+        <item>@string/crow_class</item>
+        <item>@string/elephant_class</item>
+        <item>@string/tiger_class</item>
+        <item>@string/cat_class</item>
+        <item>@string/horse_class</item>
+        <item>@string/dove_class</item>
+        <item>@string/cow_class</item>
+        <item>@string/lion_class</item>
+        <item>@string/rat_class</item>
+    </string-array>
+
+    <string-array name="data_animal_order">
+        <item>@string/rooster_order</item>
+        <item>@string/rhino_order</item>
+        <item>@string/duck_order</item>
+        <item>@string/owl_order</item>
+        <item>@string/crow_order</item>
+        <item>@string/elephant_order</item>
+        <item>@string/tiger_order</item>
+        <item>@string/cat_order</item>
+        <item>@string/horse_order</item>
+        <item>@string/dove_order</item>
+        <item>@string/cow_order</item>
+        <item>@string/lion_order</item>
+        <item>@string/rat_order</item>
+    </string-array>
+
+    <string-array name="data_animal_family">
+        <item>@string/rooster_family</item>
+        <item>@string/rhino_family</item>
+        <item>@string/duck_family</item>
+        <item>@string/owl_family</item>
+        <item>@string/crow_family</item>
+        <item>@string/elephant_family</item>
+        <item>@string/tiger_family</item>
+        <item>@string/cat_family</item>
+        <item>@string/horse_family</item>
+        <item>@string/dove_family</item>
+        <item>@string/cow_family</item>
+        <item>@string/lion_family</item>
+        <item>@string/rat_family</item>
+    </string-array>
+
+    <string-array name="data_animal_web">
+        <item>@string/rooster_web</item>
+        <item>@string/rhino_web</item>
+        <item>@string/duck_web</item>
+        <item>@string/owl_web</item>
+        <item>@string/crow_web</item>
+        <item>@string/elephant_web</item>
+        <item>@string/tiger_web</item>
+        <item>@string/cat_web</item>
+        <item>@string/horse_web</item>
+        <item>@string/dove_web</item>
+        <item>@string/cow_web</item>
+        <item>@string/lion_web</item>
+        <item>@string/rat_web</item>
+    </string-array>
+
+</resources>

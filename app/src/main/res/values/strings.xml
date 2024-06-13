@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Fauna</string>
+    <string name="title_team_us">Team us</string>
+    <string name="title_information">Information</string>
+    <string name="title_language">Language</string>
+    <string name="title_name">Animal Name</string>
+    <string name="title_scientific_classification">Scientific Classification</string>
+    <string name="title_desc">Short Description</string>
+    <string name="title_kingdom">Kingdom</string>
+    <string name="title_phylum">Phylum</string>
+    <string name="title_class">Class</string>
+    <string name="title_order">Order</string>
+    <string name="title_family">Family</string>
+    <string name="title_web">Wikipedia</string>
+    <string name="text_more_information">To find out more information, please visit the website below</string>
+
+    <string name="rooster_name">Chicken</string>
+    <string name="rooster_desc">Chicken (Gallus gallus domesticus) is a poultry that is usually kept by people to be used for the needs of the keeper\'s life. Domestic chickens (hereinafter abbreviated as "chicken") are direct descendants of a subspecies of jungle fowl known as red jungle fowl (Gallus gallus) or bangkiwa chicken (bankiva fowl).</string>
+    <string name="rooster_kingdom">Animalia</string>
+    <string name="rooster_phylum">Chordata</string>
+    <string name="rooster_class">Aves</string>
+    <string name="rooster_order">Galliformes</string>
+    <string name="rooster_family">Phasianidae</string>
+    <string name="rooster_web">https://en.wikipedia.org/wiki/Chicken</string>
+
+    <string name="rhino_name">Rhinoceros</string>
+    <string name="rhino_desc">Large herbivores that can weigh more than a tonne. One or two horns in the center of the forehead. If there are two, one of them is in front of the other (not side by side). Skin with a thickness ranging from 1.5 to 5 cm which is formed from a layer of collagen. Has a keen sense of hearing and smell, but cannot see far.
+Most rhinos can live beyond 40 years.</string>
+    <string name="rhino_kingdom">Animalia</string>
+    <string name="rhino_phylum">Chordata</string>
+    <string name="rhino_class">Mammalia</string>
+    <string name="rhino_order">Perissodactyla</string>
+    <string name="rhino_family">Rhinocerotidae</string>
+    <string name="rhino_web">https://en.wikipedia.org/wiki/Rhinoceros</string>
+
+    <string name="duck_name">Duck</string>
+    <string name="duck_desc">Duck is the common name for several species of birds in the family Anatidae. Ducks are generally aquatic birds that are mostly smaller than their relatives, geese and short-necked geese, and can be found in both freshwater and saltwater.</string>
+    <string name="duck_kingdom">Animalia</string>
+    <string name="duck_phylum">Chordata</string>
+    <string name="duck_class">Aves</string>
+    <string name="duck_order">Anseriformes</string>
+    <string name="duck_family">Anatidae</string>
+    <string name="duck_web">https://en.wikipedia.org/wiki/Duck</string>
+
+    <string name="owl_name">Owl</string>
+    <string name="owl_desc">Owls are a group of birds that are members of the order Strigiformes. This bird belongs to the class of birds of prey (carnivores, meat eaters) and is a night animal (nocturnal). In all, there are about 222 known species, which are distributed worldwide except Antarctica, most of Greenland, and some remote islands.</string>
+    <string name="owl_kingdom">Animalia</string>
+    <string name="owl_phylum">Chordata</string>
+    <string name="owl_class">Aves</string>
+    <string name="owl_order">Strigiformes</string>
+    <string name="owl_family">Strigidae, Tytonidae, Ogygoptyngidae (fossil), Palaeoglaucidae (fossil), Protostrigidae (fossil), Sophiornithidae (fossil)</string>
+    <string name="owl_web">https://en.wikipedia.org/wiki/Owl</string>
+
+    <string name="crow_name">Crow</string>
+    <string name="crow_desc">Almost all of these birds are relatively large and have a dominant black feather color. The distribution area is throughout the continents and islands, with the exception of South America.</string>
+    <string name="crow_kingdom">Animalia</string>
+    <string name="crow_phylum">Chordata</string>
+    <string name="crow_class">Aves</string>
+    <string name="crow_order">Passeriformes</string>
+    <string name="crow_family">Corvidae</string>
+    <string name="crow_web">https://en.wikipedia.org/wiki/Corvus</string>
+
+    <string name="elephant_name">Elephant</string>
+    <string name="elephant_desc">Elephants are large mammals from the family Elephantidae and the order Proboscidea. Traditionally, two species have been recognized, namely the African elephant (Loxodonta africana) and the Asian elephant (Elephas maximus), although some evidence suggests that the African bush elephant and African forest elephant are distinct species (L. africana and L. cyclotis).</string>
+    <string name="elephant_kingdom">Animalia</string>
+    <string name="elephant_phylum">Chordata</string>
+    <string name="elephant_class">Mammalia</string>
+    <string name="elephant_order">Proboscidea</string>
+    <string name="elephant_family">Elephantidae</string>
+    <string name="elephant_web">https://en.wikipedia.org/wiki/Elephant</string>
+
+    <string name="tiger_name">Tiger</string>
+    <string name="tiger_desc">The tiger (Panthera tigris) is the largest living cat species of the genus Panthera. Tigers have distinctive stripes on their fur, in the form of dark vertical stripes on orange fur, with white undersides. Tigers are apex predators, they mainly prey on ungulates such as deer and wild boars.</string>
+    <string name="tiger_kingdom">Animalia</string>
+    <string name="tiger_phylum">Chordata</string>
+    <string name="tiger_class">Mammalia</string>
+    <string name="tiger_order">Carnivora</string>
+    <string name="tiger_family">Felidae</string>
+    <string name="tiger_web">https://en.wikipedia.org/wiki/Tiger</string>
+
+    <string name="cat_name">Cat</string>
+    <string name="cat_desc">Cats, also known as domestic cats or house cats (scientific name: Felis silvestris catus or Felis catus) are a type of carnivorous mammal from the family Felidae. The word "cat" usually refers to a "cat" that has been tamed, but can also refer to "big cats" such as lions and cats.</string>
+    <string name="cat_kingdom">Animalia</string>
+    <string name="cat_phylum">Chordata</string>
+    <string name="cat_class">Mammalia</string>
+    <string name="cat_order">Carnivora</string>
+    <string name="cat_family">Felidae</string>
+    <string name="cat_web">https://en.wikipedia.org/wiki/Cat</string>
+
+    <string name="horse_name">Horse</string>
+    <string name="horse_desc">The horse (Equus caballus or Equus ferus caballus) is one of ten modern species of mammals of the genus Equus. This animal has long been one of the economically and historically important pets, and has played an important role in the transportation of people and goods for thousands of years.</string>
+    <string name="horse_kingdom">Animalia</string>
+    <string name="horse_phylum">Chordata</string>
+    <string name="horse_class">Mammalia</string>
+    <string name="horse_order">Perissodactyla</string>
+    <string name="horse_family">Equidae</string>
+    <string name="horse_web">https://en.wikipedia.org/wiki/Horse</string>
+
+    <string name="dove_name">Pigeon</string>
+    <string name="dove_desc">Pigeons belong to the family Columbidae or pigeon-billed birds of the order Columbiformes, which includes about 300 species of songbird relatives. In common conversation, the terms "dove" and "pigeon" can be used interchangeably.</string>
+    <string name="dove_kingdom">Animalia</string>
+    <string name="dove_phylum">Chordata</string>
+    <string name="dove_class">Aves</string>
+    <string name="dove_order">Columbiformes</string>
+    <string name="dove_family">Columbidae</string>
+    <string name="dove_web">https://en.wikipedia.org/wiki/Columbidae</string>
+
+    <string name="cow_name">Cow</string>
+    <string name="cow_desc">Cows are livestock members of the Bovidae tribe and children of the Bovinae tribe. Cows that have been castrated and are usually used to plow fields are called oxen. Cows are raised mainly for milk and meat as human food. By-products such as skin, offal, horns, and feces are also used for various human purposes.</string>
+    <string name="cow_kingdom">Animalia</string>
+    <string name="cow_phylum">Chordata</string>
+    <string name="cow_class">Mammalia</string>
+    <string name="cow_order">Artiodactyla</string>
+    <string name="cow_family">Bovidae</string>
+    <string name="cow_web">https://en.wikipedia.org/wiki/Cattle</string>
+
+    <string name="lion_name">Lion</string>
+    <string name="lion_desc">The lion (Sanskrit: Siṃha, or its scientific name Panthera leo) is a species of animal from the family felidae or cat breed. Lions are animals that live in groups. Usually consists of one male and many females. This group guards their territory. The lifespan of a lion is between 10 and 15 years in the wild, but in captivity it may be more than 20 years.</string>
+    <string name="lion_kingdom">Animalia</string>
+    <string name="lion_phylum">Chordata</string>
+    <string name="lion_class">Mammalia</string>
+    <string name="lion_order">Carnivora</string>
+    <string name="lion_family">Felidae</string>
+    <string name="lion_web">https://en.wikipedia.org/wiki/Lion</string>
+
+    <string name="rat_name">Rat</string>
+    <string name="rat_desc">Rats are a member of the rodent family of the order Rodentia. The best known rat species are the mouse (Mus spp.) and the sewer rat (Rattus norvegicus) which are found in almost all countries and are important model organisms in biology; It is also a popular pet.</string>
+    <string name="rat_kingdom">Animalia</string>
+    <string name="rat_phylum">Chordata</string>
+    <string name="rat_class">Mammalia</string>
+    <string name="rat_order">Rodentia</string>
+    <string name="rat_family">Muridae</string>
+    <string name="rat_web">https://en.wikipedia.org/wiki/Rat</string>
+    <string name="todo">todo</string>
+
+    <string name="colon">:</string>
+
+    <string name="team_us_teknik_informatika">Informatics Engineering</string>
+    <string name="information_desc">Simple application for knowledge about animals</string>
+
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fauna</string>
+    <string name="title_team_us">Tentang kami</string>
+    <string name="title_information">Informasi</string>
+    <string name="title_language">Bahasa</string>
+    <string name="title_name">Nama Hewan</string>
+    <string name="title_scientific_classification">Klasifikasi Ilmiah</string>
+    <string name="title_desc">Deskripsi Singkat</string>
+    <string name="title_kingdom">Kerajaan</string>
+    <string name="title_phylum">Filum</string>
+    <string name="title_class">Kelas</string>
+    <string name="title_order">Ordo</string>
+    <string name="title_family">Famili</string>
+    <string name="title_web">Wikipedia</string>
+
+    <string name="rooster_name">Ayam</string>
+    <string name="rooster_desc">Ayam (Gallus gallus domesticus) adalah unggas yang biasa dipelihara orang untuk dimanfaatkan untuk keperluan hidup pemeliharanya. Ayam peliharaan (selanjutnya disingkat "ayam" saja) merupakan keturunan langsung dari salah satu subspesies ayam hutan yang dikenal sebagai ayam hutan merah (Gallus gallus) atau ayam bangkiwa (bankiva fowl).</string>
+    <string name="rooster_kingdom">Animalia</string>
+    <string name="rooster_phylum">Chordata</string>
+    <string name="rooster_class">Aves</string>
+    <string name="rooster_order">Galliformes</string>
+    <string name="rooster_family">Phasianidae</string>
+    <string name="rooster_web">https://id.wikipedia.org/wiki/Ayam_peliharaan</string>
+
+    <string name="rhino_name">Badak</string>
+    <string name="rhino_desc">Herbivora berukuran besar yang dapat mencapai bobot lebih dari satu ton. Satu atau dua cula pada bagian tengah dahi. Jika berjumlah dua, salah satu terletak di depan yang lainnya (tidak bersisian). Kulit dengan tebal berkisar 1.5 – 5 cm yang terbentuk dari lapisan kolagen. Memiliki indra pendengaran dan penciuman yang tajam, tetapi tidak dapat melihat jauh.
+Sebagian besar badak dapat hidup melebihi 40 tahun.</string>
+    <string name="rhino_kingdom">Animalia</string>
+    <string name="rhino_phylum">Chordata</string>
+    <string name="rhino_class">Mammalia</string>
+    <string name="rhino_order">Perissodactyla</string>
+    <string name="rhino_family">Rhinocerotidae</string>
+    <string name="rhino_web">https://id.wikipedia.org/wiki/Badak</string>
+    <string name="text_more_information">Untuk mengetahui informasi selengkapnya bisa kunjungi web di bawah ini</string>
+
+    <string name="duck_name">Bebek</string>
+    <string name="duck_desc">Bebek adalah nama umum untuk beberapa spesies burung dalam famili Anatidae. Bebek umumnya adalah burung akuatik yang sebagian besar berukuran lebih kecil dibandingkan kerabatnya, angsa dan angsa berleher pendek, dan dapat ditemukan di perairan air tawar maupun air laut.</string>
+    <string name="duck_kingdom">Animalia</string>
+    <string name="duck_phylum">Chordata</string>
+    <string name="duck_class">Aves</string>
+    <string name="duck_order">Anseriformes</string>
+    <string name="duck_family">Anatidae</string>
+    <string name="duck_web">https://id.wikipedia.org/wiki/Itik</string>
+
+    <string name="owl_name">Burung Hantu</string>
+    <string name="owl_desc">Burung hantu adalah kelompok burung yang merupakan anggota ordo Strigiformes. Burung ini termasuk golongan burung buas (karnivora, pemakan daging) dan merupakan hewan malam (nokturnal). Seluruhnya, terdapat sekitar 222 spesies yang telah diketahui, yang menyebar di seluruh dunia kecuali Antarktika, sebagian besar Greenland, dan beberapa pulau-pulau terpencil.</string>
+    <string name="owl_kingdom">Animalia</string>
+    <string name="owl_phylum">Chordata</string>
+    <string name="owl_class">Aves</string>
+    <string name="owl_order">Strigiformes</string>
+    <string name="owl_family">Strigidae, Tytonidae, Ogygoptyngidae (fosil), Palaeoglaucidae (fosil), Protostrigidae (fosil), Sophiornithidae (fosil)</string>
+    <string name="owl_web">https://id.wikipedia.org/wiki/Burung_hantu</string>
+
+    <string name="crow_name">Burung Gagak</string>
+    <string name="crow_desc">Hampir semua jenis burung ini berukuran relatif besar dan berwarna bulu dominan hitam. Daerah sebarannya ada diseluruh benua dan kepulauan, dengan perkecualian di Amerika Selatan.</string>
+    <string name="crow_kingdom">Animalia</string>
+    <string name="crow_phylum">Chordata</string>
+    <string name="crow_class">Aves</string>
+    <string name="crow_order">Passeriformes</string>
+    <string name="crow_family">Corvidae</string>
+    <string name="crow_web">https://id.wikipedia.org/wiki/Gagak</string>
+
+    <string name="elephant_name">Gajah</string>
+    <string name="elephant_desc">Gajah adalah mamalia besar dari famili Elephantidae dan ordo Proboscidea. Secara tradisional, terdapat dua spesies yang diakui, yaitu gajah afrika (Loxodonta africana) dan gajah asia (Elephas maximus), walaupun beberapa bukti menunjukkan bahwa gajah semak afrika dan gajah hutan afrika merupakan spesies yang berbeda (L. africana dan L. cyclotis).</string>
+    <string name="elephant_kingdom">Animalia</string>
+    <string name="elephant_phylum">Chordata</string>
+    <string name="elephant_class">Mammalia</string>
+    <string name="elephant_order">Proboscidea</string>
+    <string name="elephant_family">Elephantidae</string>
+    <string name="elephant_web">https://id.wikipedia.org/wiki/Gajah</string>
+
+    <string name="tiger_name">Harimau</string>
+    <string name="tiger_desc">Harimau (Panthera tigris) adalah spesies kucing terbesar yang masih hidup dari genus Panthera. Harimau memiliki ciri loreng yang khas pada bulunya, berupa garis-garis vertikal gelap pada bulu oranye, dengan bulu bagian bawah berwarna putih. Harimau adalah pemangsa puncak, mereka terutama memangsa ungulata seperti rusa dan babi celeng.</string>
+    <string name="tiger_kingdom">Animalia</string>
+    <string name="tiger_phylum">Chordata</string>
+    <string name="tiger_class">Mammalia</string>
+    <string name="tiger_order">Carnivora</string>
+    <string name="tiger_family">Felidae</string>
+    <string name="tiger_web">https://id.wikipedia.org/wiki/Harimau</string>
+
+    <string name="cat_name">Kucing</string>
+    <string name="cat_desc">Kucing disebut juga kucing domestik atau kucing rumah (nama ilmiah: Felis silvestris catus atau Felis catus) adalah sejenis mamalia karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga merujuk kepada "kucing besar" seperti singa dan harimau.</string>
+    <string name="cat_kingdom">Animalia</string>
+    <string name="cat_phylum">Chordata</string>
+    <string name="cat_class">Mammalia</string>
+    <string name="cat_order">Carnivora</string>
+    <string name="cat_family">Felidae</string>
+    <string name="cat_web">https://id.wikipedia.org/wiki/Kucing</string>
+
+    <string name="horse_name">Kuda</string>
+    <string name="horse_desc">Kuda (Equus caballus atau Equus ferus caballus) adalah salah satu dari sepuluh spesies modern mamalia dari genus Equus. Hewan ini telah lama merupakan salah satu hewan peliharaan yang penting secara ekonomis dan historis, dan telah memegang peranan penting dalam pengangkutan orang dan barang selama ribuan tahun.</string>
+    <string name="horse_kingdom">Animalia</string>
+    <string name="horse_phylum">Chordata</string>
+    <string name="horse_class">Mammalia</string>
+    <string name="horse_order">Perissodactyla</string>
+    <string name="horse_family">Equidae</string>
+    <string name="horse_web">https://id.wikipedia.org/wiki/Kuda</string>
+
+    <string name="dove_name">Merpati</string>
+    <string name="dove_desc">Merpati termasuk dalam famili Columbidae atau burung berparuh merpati dari ordo Columbiformes, yang mencakup sekitar 300 spesies burung kerabat pekicau. Dalam percakapan umum, istilah "dara" dan "merpati" dapat saling menggantikan.</string>
+    <string name="dove_kingdom">Animalia</string>
+    <string name="dove_phylum">Chordata</string>
+    <string name="dove_class">Aves</string>
+    <string name="dove_order">Columbiformes</string>
+    <string name="dove_family">Columbidae</string>
+    <string name="dove_web">https://id.wikipedia.org/wiki/Columbidae</string>
+
+    <string name="cow_name">Sapi</string>
+    <string name="cow_desc">Sapi adalah hewan ternak anggota suku Bovidae dan anak suku Bovinae. Sapi yang telah dikebiri dan biasanya digunakan untuk membajak sawah dinamakan lembu. Sapi dipelihara terutama untuk dimanfaatkan susu dan dagingnya sebagai pangan manusia. Hasil sampingannya seperti kulit, jeroan, tanduk, dan kotorannya juga dimanfaatkan untuk berbagai keperluan manusia.</string>
+    <string name="cow_kingdom">Animalia</string>
+    <string name="cow_phylum">Chordata</string>
+    <string name="cow_class">Mammalia</string>
+    <string name="cow_order">Artiodactyla</string>
+    <string name="cow_family">Bovidae</string>
+    <string name="cow_web">https://id.wikipedia.org/wiki/Sapi</string>
+
+    <string name="lion_name">Singa</string>
+    <string name="lion_desc">Singa (bahasa Sanskerta: Siṃha, atau nama ilmiahnya Panthera leo) adalah spesies hewan dari keluarga felidae atau jenis kucing. Singa merupakan hewan yang hidup berkelompok. Biasanya terdiri dari seekor jantan dan banyak betina. Kelompok ini menjaga daerah kekuasaannya. Umur singa antara 10 sampai 15 tahun di alam bebas, tetapi dalam penangkaran memungkinkan lebih dari 20 tahun.</string>
+    <string name="lion_kingdom">Animalia</string>
+    <string name="lion_phylum">Chordata</string>
+    <string name="lion_class">Mammalia</string>
+    <string name="lion_order">Carnivora</string>
+    <string name="lion_family">Felidae</string>
+    <string name="lion_web">https://id.wikipedia.org/wiki/Singa</string>
+
+    <string name="rat_name">Tikus</string>
+    <string name="rat_desc">Tikus adalah salah satu famili hewan pengerat dari ordo Rodentia. Spesies tikus yang paling dikenal adalah mencit (Mus spp.) serta tikus got (Rattus norvegicus) yang ditemukan hampir di semua negara dan merupakan suatu organisme model yang penting dalam biologi; juga merupakan hewan peliharaan yang populer.</string>
+    <string name="rat_kingdom">Animalia</string>
+    <string name="rat_phylum">Chordata</string>
+    <string name="rat_class">Mammalia</string>
+    <string name="rat_order">Rodentia</string>
+    <string name="rat_family">Muridae</string>
+    <string name="rat_web">https://id.wikipedia.org/wiki/Tikus</string>
+    <string name="todo">todo</string>
+    <string name="colon">:</string>
+
+
+    <string name="team_us_teknik_informatika">Teknik Informatika</string>
+    <string name="information_desc">Aplikasi sederhana untuk pengetahuan tentang hewan</string>
+
+
+</resources>

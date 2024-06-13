@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorBgSecondary" format="reference" />
+    <attr name="colorStroke" format="reference" />
+    <attr name="colorBgInformation" format="reference" />
+    <attr name="colorGray" format="reference" />
+</resources>
